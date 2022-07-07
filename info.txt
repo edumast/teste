@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+				<head>
+								<link rel="stylesheet" href="style.css"
+								/> 
+								<title>
+												info
+								</title>
+								
+								
+								
+				</head>
+				<body>
+										<style>
+body {
+
+background-image: url("ft2.jpg");
+height:3000px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+</style> 
+				<center>
+								<h1 class="escp ggg">
+												site criado por Eduardo kenji takemoto 
+								</h1>
+								<h1 class="escp">
+										bem vindo ao meu site! <br>
+										site criado em html,css e javascript
+							<br>
+										hospedado em github	.com		<br>																							
+contato profissional:
+edumastprofissional@gmail.com
+												
+												
+								</h1>
+								<a href="https://edumast.github.io/edumastsearch.github.io"/>
+				<h1 class="escp">
+								crique aqui parar ir ao meu outro site
+								
+				</h1>
+				</a>
+								</h1>
+								<h1 class="escp">
+												outro projetos:
+												<ol>
+																<a href="ale.txt" >
+																<li>
+																				ale.py
+																</li>
+																</a>
+																<a href="provas.cpp">
+																				<li>
+																								provas.cpp
+																				</li>
+																</a>
+																<a href="cal.java">
+																				<li>
+																								cal.java
+																				</li>
+																</a>
+																<a href="shell.txt">
+																				<li>
+																								shell.sh
+																				</li>																			
+																</a>
+																<a href="cod.txt">
+																				<li>
+																								cod.py
+																</li>									
+																<a href="index.txt">
+																				<li>
+																								index.html
+																				</li>
+																</a>						      
+																<a href="style.css">
+																				<li>
+																								style.css
+																				</li>
+																				
+																</a>
+																<a href="script.js">
+																				<li>
+																								script.js 
+																				</li>
+																				
+																</a>
+																																																							         																													
+																</a>
+																
+												</ol>
+												
+												
+								</h1>
+												<a href="dc3.html" >
+								<Button class="escpb vd">
+				
+												<h1 >
+																voltar
+																
+												</h1>
+												
+								
+								</button>
+								</a>
+								
+				</center>			
+				</body>
+</html>

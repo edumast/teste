@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+				
+				<head>
+								<link rel="stylesheet" href="style.css"
+								/> 
+								<title>
+												primeiro cite html
+												
+												
+												
+								</title>
+			
+								
+				</head>
+			
+				
+			
+			
+				<body>
+							
+						<style>
+body {
+
+background-image: url("ft2.jpg");
+height:3000px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+</style> 
+<center>
+				<font face="courier">
+								<h2 class="azxo gg font">
+												meu projeto .html  
+												</h2>
+												
+												<h4 class="pet mgr">
+																(em fase de desenvolvimento!) 
+																
+												</h4>
+												
+												 <h1 class="azxo w1 gg"> beta 0.5 </h1>
+												 </font>
+												
+												
+								</h2>
+								<img src="coroag.jpg"  height="500"
+								width="500"
+								 />
+								 <font face="courier">
+								<h1 class="azul w1 gg" > 
+											meu site .html
+												
+												
+								</h1>
+								<h2 class="azul w1 g">
+												Edumast
+												
+												
+								</h2>
+		
+								<br>
+												
+												<b class="azul w1 g">
+												nome:
+								</b>
+									</font>			
+	</div>
+								<form >
+													
+												<input class="g esc" type="text" id="nome">
+												
+								
+												
+												
+								</form>
+								<font face="courier">
+								<b class="azul w1 g " id="data">
+												data de nascimento:
+												
+								</b>
+								</font>
+								<form>
+															
+															<input id="data" class="g esc" type="date">
+									
+												
+								</form>
+								<font face="courier">
+								<b class="azul w1 g" >
+												senha:
+												
+								</b>
+								</font>
+												<form>
+																			
+															<input id="senh" class="g esc" type="password" >
+												
+												
+								</form>
+					
+								<button class="w1 g butt esp bdm" onclick="ms();";
+								 
+												<h1 class="g w1">
+																enviar formulário
+												</h1>
+											
+																						
+											</button>
+					
+											<br>
+											<a href="dc3.html">
+											<button class="escpb esp ved fte bdm cr"
+											
+															<h1>
+															próxima página 
+															</h1>
+									
+									</button>
+									</a>
+									<br>
+															<a href="info.html">
+																			
+																			<img src="info.png" class="pq esp" >
+																			
+															</a>
+									
+								
+										<h2 class="azul w1 g" id="est" type="text"  >
+														
+											
+											</h2>
+			
+			
+			
+				<font face="courier">
+<h2 class=" azul w1 g">																		
+															clique abaixo para baixar meu app 		</h2> 
+															</font>
+									<a href="meu app.apk" Download>
+  <img src="icon_download.png" class="bdr" alt="icon" width="200" height="200">
+</a>
+
+
+				
+				
+				
+</h1>
+
+
+</center>
+<script>
+				alert("bem vindo a página de edumast!");
+				
+</script>
+    <script
+			src="script.js"
+			></script>
+				</body>
+				
+				
+</html>

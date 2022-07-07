@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+				<head>
+								<link rel="stylesheet" href="style.css"
+								/> 
+								<title>
+												primeiro cite html
+												
+												
+												
+								</title>
+			
+								
+				</head>
+			<body>
+													<style>
+body {
+
+background-color: #6a8dff;
+height:3000px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+</style> 
+							<center>
+											<h1 class="ggg escp">
+															museu
+											</h1>
+											<img src="nmg.jpeg" alt="" class="gf escp esp">
+											<img src="bn.jpeg" alt="" class="gf escp esp">
+											<img src="broc.jpeg" alt=""
+											class="gf escp esp">
+											<img src="nuc.jpeg" alt=""
+											class="gf escp esp">
+											<img src="azub.jpeg" alt=""
+											class="gf escp esp">
+											<img src="coroa.png" alt=""
+											class="gf escp esp">
+											<img src="corag.jpeg" alt=""
+											class="gf escp esp">
+											<img src="ts.jpeg" alt=""
+											class="gf escp esp">
+											<img src="coroap.jpg" alt=""
+											class="gf escp esp">
+											<img src="coroa3d.jpg" alt=""
+											class="gf escp esp">											
+											<img src="ftm1.png" alt=""
+											class="gf escp esp">		
+											<img src="ftm2.jpg" alt=""
+											class="gf escp esp">
+											<img src="coroag.jpg" alt=""
+											class="gf escp esp">
+											<a href="dc3.html"> 
+															<h1 class="esp gg escpp ">
+																			voltar
+															</h1>										
+															
+											</a>
+											<br>
+							</center>
+							<script
+			src="script.js"
+			></script>
+			</body>
+			
+</html>

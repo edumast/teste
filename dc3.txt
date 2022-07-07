@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <title>3d</title>
+  <link rel="stylesheet" href="./dc.css">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+				<center>
+								<style>
+body {
+
+background-color: #2bc0ff;
+height:3000px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+</style> 
+								
+															<a href="museu.html"
+																			<button class="">
+																							<h1 class="escpp">
+																											museu
+																							</h1>
+																							
+																			</button>
+																			
+																			</a>					
+														<a href="info.html"
+																												<button>
+																												
+							<h1 class="escpp">
+						
+															info
+							</h1>
+							</button>
+							</a>
+							<a href="https://edumast.github.io/edumastsearch.github.io/	"
+											<Button>
+															<h1 class="escpp tsy">
+																			search
+															</h1>
+											</Button>										
+							</a>
+							
+			<h1>
+							
+							<a href="index.html" class="g">
+									
+							voltar
+										</a>
+			</h1>
+	 
+								<div class="scene espa dr cimm">							
+												<div class="cbbx "	>
+																<div class="fre">
+																				<img src="coroag.jpg" height="500px" class="inv">																				
+																</div>
+																<div class="tra ">
+																			
+													site criado por:<br> eduardo kenji takemoto
+											
+																</div>
+																<div class="esq">
+																				
+																</div>
+												    
+																<div class="dir ">
+																				
+																</div>
+																
+																<div class="cim">
+												    				
+												    </div>
+																<div class="bax"></div>
+																</div>
+																</div> 
+																							
+								
+		
+				</center>				
+				</body>
+</html>

@@ -1,0 +1,146 @@
+.bc{
+height:400px;
+width:1200px;
+transform:translatey(-100px) translatex(-10px);
+background:#4d36d6;
+}
+body{
+				background:#80c1ff;
+}
+.txe{
+font-size:100px;
+width:150px;
+height:50px;
+				transform:translatex(500px) translatey(-110px);
+				
+}
+.img{
+				transform:translatex(100px) translatey(-100px);
+				
+}
+.ds{
+font-size:100px;
+				transform:translatex(50px) translatey(-100px);
+}
+.aut{
+				font-size:25px;
+				transform:translatex(50px) translatey(-100px);
+}
+.ftg{
+				font-size:100px;
+				margin-left:100px;
+}
+.fnt{
+				font-size:50px;
+				margin-left:80px;			
+}
+.frd{
+			border-radius:10%;
+}
+.bnc{
+height:200px;
+width:800px;
+background:blue;
+border-top-left-radius:5%;
+border-bottom-left-radius:5%;
+transform:translatex(400px) translatey(120px);
+}
+.bbm{
+height:40px;
+width:400px;
+background:#2b2eff;
+border-top-left-radius:5%;
+border-bottom-left-radius:5%;
+transform:translatex(800px) translatey(-50px);
+}
+.vtr{
+				width:300px;
+				height:100px;
+				margin-left:500px;
+margin-top:100px;				
+}
+.escpp{
+				border-color:#2b2eff;
+border-style:outset;
+width:200px;
+font:bold 50px arial, sans-serif;
+text-shadow:none;
+background:#d71259;
+color:blue;
+border-radius:10%;
+}
+.imp{
+		transform:translatex(100px) translatey(50px);
+		
+}
+.rdb{
+				background:#bbe6f9;
+				width:900px;
+				height:350px;
+				border-radius:5%;
+				padding:100px;
+}
+.rd1{
+							background:#bbe6f9;
+				width:1100px;		
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:100px;
+				padding-bottom:50px;
+				padding-right:20px;
+}
+.rd2{
+						background:#bbe6f9;
+				width:1100px;		
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:40px;
+				padding-bottom:180px;
+				padding-right:20px;
+}
+.rd3{
+						background:#bbe6f9;
+				width:1100px;			
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:40px;
+				padding-bottom:180px;
+				padding-right:20px;
+}
+.rd4{
+						background:#bbe6f9;
+				width:1100px;		
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:40px;
+				padding-bottom:180px;
+				padding-right:20px;
+}
+.rd5{
+						background:#bbe6f9;
+				width:1100px;		
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:30px;
+				padding-bottom:180px;
+				padding-right:20px;
+}
+.rd6{
+						background:#bbe6f9;
+				width:1100px;		
+				margin-top:100px;
+				border-radius:5%;
+				padding-top:40px;
+						padding-bottom:180px;
+						padding-right:20px;
+}
+.cima_ol{
+    margin-top:1000px;
+}
+.botao{
+    background:#bbe6f9;
+    padding:20px;
+    font-size:100px;
+    border-radius:10%;
+    border-width:0px;
+}
